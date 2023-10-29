@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalit1471&label=Profile%20views&color=0e75b6&style=flat" alt="lalit1471" /> </p>
 
-- 🔭 I’m currently working on **Music Player**
+- 🔭 I’m currently working on **Java Development**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter and Java**
 
-- 💬 Ask me about **Android Development using Flutter**
+- 💬 Ask me about **Android, Web and Software Development**
 
 - 📫 How to reach me **alalitkumar02@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1H-U8N_fzAOmrOs5lMvZ0P_dpYhHU_sr9/view?usp=share_link](https://drive.google.com/file/d/1H-U8N_fzAOmrOs5lMvZ0P_dpYhHU_sr9/view?usp=share_link)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1H-U8N_fzAOmrOs5lMvZ0P_dpYhHU_sr9/view?usp=share_link](https://drive.google.com/file/d/1H-U8N_fzAOmrOs5lMvZ0P_dpYhHU_sr9/view?usp=share_link)](https://drive.google.com/file/d/1lxRYiLIsAhbNZf4PnKfVPbmdcjJ7mpVz/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
